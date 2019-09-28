@@ -7,6 +7,6 @@ USTCLUG 同学们的博客列表，参考了 TUNA 协会的 [blogroll](https://g
 
 ## 列表
 
-| 名称 | URL | RSS |
+| 昵称/博客名称 | URL | RSS |
 | --- | --- | --- |
 | TBD | ... | ...|
