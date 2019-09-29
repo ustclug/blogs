@@ -16,3 +16,4 @@ USTCLUG 同学们的博客列表，参考了 TUNA 协会的 [blogroll](https://g
 | sirius | https://sirius1242.github.io/ | https://sirius1242.github.io/feed.xml |
 | nicecream | https://nicecream.top/ | https://nicecream.top/feed.xml |
 | Elisa's Blog | https://etsai.site/ | https://etsai.site/rss2.xml |
+| zzh1996 | https://sqrt-1.me/ | https://sqrt-1.me/?feed=rss2 |
