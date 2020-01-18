@@ -23,3 +23,4 @@ USTCLUG 同学们的博客列表，参考了 TUNA 协会的 [blogroll](https://g
 | 酱瓜 / Jonbgua | https://jonbgua.com | https://www.jonbgua.com/atom.xml |
 | ksqsf / Cicada | https://ksqsf.moe/blog/ | https://ksqsf.moe/blog/feed.xml |
 | ustcpetergu | https://ustcpetergu.github.io/MyBlog | https://ustcpetergu.github.io/MyBlog/feed.xml |
+| lys | https://liyishuai.wordpress.com | https://liyishuai.wordpress.com/feed/ |
