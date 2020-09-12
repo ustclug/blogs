@@ -11,7 +11,7 @@ USTCLUG 同学们的博客列表，参考了 TUNA 协会的 [blogroll](https://g
 | 昵称/博客名称 | URL | RSS |
 | --- | --- | --- |
 | taoky | https://blog.taoky.moe | https://blog.taoky.moe/feed.xml |
-| iBug ① | https://ibugone.com/blog | https://ibugone.com/feed.xml |
+| iBug | https://ibug.io/blog | https://ibug.io/feed.xml |
 | zml | https://mlzeng.com/ | https://mlzeng.com/index.xml |
 | sirius | https://sirius1242.github.io/ | https://sirius1242.github.io/feed.xml |
 | nicecream | https://nicecream.top/ |  |
