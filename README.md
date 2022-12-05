@@ -8,25 +8,25 @@ USTCLUG 同学们的博客列表，参考了 TUNA 协会的 [blogroll](https://g
 
 ## 列表
 
-| 昵称/博客名称  | URL                                  | RSS                                           |
-| -------------- | ------------------------------------ | --------------------------------------------- |
-| taoky          | https://blog.taoky.moe               | https://blog.taoky.moe/feed.xml               |
-| iBug           | https://ibug.io/blog                 | https://ibug.io/feed.xml                      |
-| zml            | https://mlzeng.com/                  | https://mlzeng.com/index.xml                  |
-| sirius         | https://sirius1242.github.io/        | https://sirius1242.github.io/feed.xml         |
-| nicecream      | https://nicecream.top/               |                                               |
-| Elisa's Blog   | https://etsai.site/                  | https://etsai.site/atom.xml                   |
-| 负一的平方根   | https://sqrt-1.me/                   | https://sqrt-1.me/?feed=rss2                  |
-| hustcw         | https://blog.wh98.me/                | https://blog.wh98.me/atom.xml                 |
-| volltin        | https://blog.volltin.com             | https://blog.volltin.com/feed/                |
-| elliot(ertuil) | https://www.elliot98.top             | https://www.elliot98.top/index.xml            |
-| 酱瓜 / Jonbgua | https://jonbgua.com                  | https://www.jonbgua.com/atom.xml              |
-| ksqsf / Cicada | https://ksqsf.moe/blog/              | https://ksqsf.moe/atom.xml                    |
-| ustcpetergu    | https://www.ustcpetergu.com/MyBlog/ | https://www.ustcpetergu.com/MyBlog/feed.xml |
-| lys            | https://liyishuai.wordpress.com      | https://liyishuai.wordpress.com/feed/         |
-| libreliu       | https://blog.libreliu.info           | https://blog.libreliu.info/atom.xml           |
-| Bowen's Blog   | https://foreverfancy.github.io/      | https://foreverfancy.github.io/atom.xml       |
-| myl7           | https://myl.moe                      | https://myl.moe/atom.xml                      |
-| totoro         | https://yyw.moe                      | https://yyw.moe/atom.xml                      |
-| boj            | https://ring0.me/                    | https://ring0.me/atom.xml                     |
-| bcli           | https://bc-li.github.io/             | https://bc-li.github.io/feed.xml              |
+| 昵称/博客名称  | URL                              | RSS                                      |
+| -------------- | -------------------------------- | ---------------------------------------- |
+| taoky          | https://blog.taoky.moe           | https://blog.taoky.moe/feed.xml          |
+| iBug           | https://ibug.io/blog             | https://ibug.io/feed.xml                 |
+| zml            | https://mlzeng.com/              | https://mlzeng.com/index.xml             |
+| sirius         | https://sirius1242.github.io/    | https://sirius1242.github.io/feed.xml    |
+| nicecream      | https://nicecream.top/           |                                          |
+| Elisa's Blog   | https://etsai.site/              | https://etsai.site/atom.xml              |
+| 负一的平方根   | https://sqrt-1.me/               | https://sqrt-1.me/?feed=rss2             |
+| hustcw         | https://blog.wh98.me/            | https://blog.wh98.me/atom.xml            |
+| volltin        | https://blog.volltin.com         | https://blog.volltin.com/feed/           |
+| elliot(ertuil) | https://www.elliot98.top         | https://www.elliot98.top/index.xml       |
+| 酱瓜 / Jonbgua | https://jonbgua.com              | https://www.jonbgua.com/atom.xml         |
+| ksqsf / Cicada | https://ksqsf.moe/blog/          | https://ksqsf.moe/atom.xml               |
+| ustcpetergu    | https://regymm.github.io/MyBlog/ | https://regymm.github.io/MyBlog/feed.xml |
+| lys            | https://liyishuai.wordpress.com  | https://liyishuai.wordpress.com/feed/    |
+| libreliu       | https://blog.libreliu.info       | https://blog.libreliu.info/atom.xml      |
+| Bowen's Blog   | https://foreverfancy.github.io/  | https://foreverfancy.github.io/atom.xml  |
+| myl7           | https://myl.moe                  | https://myl.moe/atom.xml                 |
+| totoro         | https://yyw.moe                  | https://yyw.moe/atom.xml                 |
+| boj            | https://ring0.me/                | https://ring0.me/atom.xml                |
+| bcli           | https://bc-li.github.io/         | https://bc-li.github.io/feed.xml         |
