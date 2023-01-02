@@ -17,7 +17,7 @@ def check(rssurl):
 def main(args):
     contents = []
     # 1. Parse README.md and get the list of links
-    with open("./README.md") as f:
+    with open("./README.md", encoding="utf-8") as f:
         for line in f:
             if line.startswith("|"):
                 try:
