@@ -31,3 +31,4 @@ USTCLUG 同学们的博客列表，参考了 TUNA 协会的 [blogroll](https://g
 | boj            | https://ring0.me/                | https://ring0.me/atom.xml                |
 | bcli           | https://bc-li.github.io/         | https://bc-li.github.io/feed.xml         |
 | Catoverflow    | https://c-j.dev/                 | https://c-j.dev/atom.xml                 |
+| zhao's Moments | https://zhaozuohong.vip/         |                                          |
