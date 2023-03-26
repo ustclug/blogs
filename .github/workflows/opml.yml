@@ -1,0 +1,42 @@
+name: OPML Generate
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.10"
+    - name: Prepare output folder
+      if: ${{ github.ref == 'refs/heads/master' }}
+      run: |
+        git clone --no-checkout --depth=1 --branch=opml --single-branch \
+          "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" \
+          opml
+    - name: Generate opml files
+      run: |
+        mkdir -p opml
+        python opml.py --output ./opml/ustclug.opml
+        python opml.py --thunderbird --output ./opml/ustclug-thunderbird.opml
+    - name: Publish to "opml" branch
+      if: ${{ github.ref == 'refs/heads/master' }}
+      run: |
+        git -C opml add --all
+        if ! git -C opml diff-index --quiet HEAD --; then
+          git -C opml -c user.name="GitHub Actions autobuild" -c user.email="noreply@github.com" commit \
+            -m "Update OPML on $(date +%Y-%m-%d)" -m "$(git log -1 --pretty='tformat:[%h] %an: %s' HEAD)"
+          git -C opml push
+        fi
