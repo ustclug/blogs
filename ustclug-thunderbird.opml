@@ -1,0 +1,73 @@
+<opml version='2.0'>
+<head>
+<title>USTCLUG Blogs</title>
+</head>
+<body>
+<outline title="taoky">
+<outline type='rss' text="taoky" xmlUrl="https://blog.taoky.moe/feed.xml" htmlUrl="https://blog.taoky.moe"/>
+</outline>
+<outline title="iBug">
+<outline type='rss' text="iBug" xmlUrl="https://ibug.io/feed.xml" htmlUrl="https://ibug.io/blog"/>
+</outline>
+<outline title="zml">
+<outline type='rss' text="zml" xmlUrl="https://mlzeng.com/index.xml" htmlUrl="https://mlzeng.com/"/>
+</outline>
+<outline title="sirius">
+<outline type='rss' text="sirius" xmlUrl="https://sirius1242.github.io/feed.xml" htmlUrl="https://sirius1242.github.io/"/>
+</outline>
+<outline title="Elisa's Blog">
+<outline type='rss' text="Elisa's Blog" xmlUrl="https://etsai.site/atom.xml" htmlUrl="https://etsai.site/"/>
+</outline>
+<outline title="负一的平方根">
+<outline type='rss' text="负一的平方根" xmlUrl="https://sqrt-1.me/?feed=rss2" htmlUrl="https://sqrt-1.me/"/>
+</outline>
+<outline title="hustcw">
+<outline type='rss' text="hustcw" xmlUrl="https://blog.wh98.me/atom.xml" htmlUrl="https://blog.wh98.me/"/>
+</outline>
+<outline title="volltin">
+<outline type='rss' text="volltin" xmlUrl="https://blog.volltin.com/feed/" htmlUrl="https://blog.volltin.com"/>
+</outline>
+<outline title="elliot(ertuil)">
+<outline type='rss' text="elliot(ertuil)" xmlUrl="https://www.elliot98.top/index.xml" htmlUrl="https://www.elliot98.top"/>
+</outline>
+<outline title="酱瓜 / Jonbgua">
+<outline type='rss' text="酱瓜 / Jonbgua" xmlUrl="https://www.jonbgua.com/atom.xml" htmlUrl="https://jonbgua.com"/>
+</outline>
+<outline title="ksqsf / Cicada">
+<outline type='rss' text="ksqsf / Cicada" xmlUrl="https://ksqsf.moe/atom.xml" htmlUrl="https://ksqsf.moe/blog/"/>
+</outline>
+<outline title="ustcpetergu">
+<outline type='rss' text="ustcpetergu" xmlUrl="https://regymm.github.io/MyBlog/feed.xml" htmlUrl="https://regymm.github.io/MyBlog/"/>
+</outline>
+<outline title="lys">
+<outline type='rss' text="lys" xmlUrl="https://liyishuai.wordpress.com/feed/" htmlUrl="https://liyishuai.wordpress.com"/>
+</outline>
+<outline title="libreliu">
+<outline type='rss' text="libreliu" xmlUrl="https://blog.libreliu.info/atom.xml" htmlUrl="https://blog.libreliu.info"/>
+</outline>
+<outline title="Bowen's Blog">
+<outline type='rss' text="Bowen's Blog" xmlUrl="https://foreverfancy.github.io/atom.xml" htmlUrl="https://foreverfancy.github.io/"/>
+</outline>
+<outline title="myl7">
+<outline type='rss' text="myl7" xmlUrl="https://myl.moe/atom.xml" htmlUrl="https://myl.moe"/>
+</outline>
+<outline title="totoro">
+<outline type='rss' text="totoro" xmlUrl="https://yyw.moe/atom.xml" htmlUrl="https://yyw.moe"/>
+</outline>
+<outline title="boj">
+<outline type='rss' text="boj" xmlUrl="https://ring0.me/atom.xml" htmlUrl="https://ring0.me/"/>
+</outline>
+<outline title="bcli">
+<outline type='rss' text="bcli" xmlUrl="https://bc-li.github.io/feed.xml" htmlUrl="https://bc-li.github.io/"/>
+</outline>
+<outline title="Catoverflow">
+<outline type='rss' text="Catoverflow" xmlUrl="https://c-j.dev/atom.xml" htmlUrl="https://c-j.dev/"/>
+</outline>
+<outline title="zhao's Moments">
+<outline type='rss' text="zhao's Moments" xmlUrl="https://zhaozuohong.vip/feed.xml" htmlUrl="https://zhaozuohong.vip/"/>
+</outline>
+<outline title="Zigone">
+<outline type='rss' text="Zigone" xmlUrl="https://zigone.site/atom.xml" htmlUrl="https://zigone.site"/>
+</outline>
+</body>
+</opml>
