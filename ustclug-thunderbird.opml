@@ -72,5 +72,8 @@
 <outline title="忧郁沙茶">
 <outline type='rss' text="忧郁沙茶" xmlUrl="https://crabtux.github.io/atom.xml" htmlUrl="https://crabtux.github.io/"/>
 </outline>
+<outline title="Hanako">
+<outline type='rss' text="Hanako" xmlUrl="https://hanako.me/rss.xml" htmlUrl="https://hanako.me/"/>
+</outline>
 </body>
 </opml>
