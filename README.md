@@ -8,7 +8,7 @@ USTCLUG 同学们的博客列表，参考了 TUNA 协会的 [blogroll](https://g
 
 ## 列表
 
-| 昵称/博客名称  | URL                              | RSS                                      |
+| 昵称/博客名称   | URL                              | RSS                                      |
 | -------------- | -------------------------------- | ---------------------------------------- |
 | taoky          | https://blog.taoky.moe           | https://blog.taoky.moe/feed.xml          |
 | iBug           | https://ibug.io/blog             | https://ibug.io/feed.xml                 |
@@ -16,7 +16,7 @@ USTCLUG 同学们的博客列表，参考了 TUNA 协会的 [blogroll](https://g
 | sirius         | https://sirius1242.github.io/    | https://sirius1242.github.io/feed.xml    |
 | nicecream      | https://voile.tech               |                                          |
 | Elisa's Blog   | https://etsai.site/              | https://etsai.site/atom.xml              |
-| 负一的平方根   | https://sqrt-1.me/               | https://sqrt-1.me/?feed=rss2             |
+| 负一的平方根    | https://sqrt-1.me/               | https://sqrt-1.me/?feed=rss2             |
 | hustcw         | https://blog.wh98.me/            | https://blog.wh98.me/atom.xml            |
 | volltin        | https://blog.volltin.com         | https://blog.volltin.com/feed/           |
 | elliot(ertuil) | https://www.elliot98.top         | https://www.elliot98.top/index.xml       |
@@ -33,6 +33,7 @@ USTCLUG 同学们的博客列表，参考了 TUNA 协会的 [blogroll](https://g
 | Catoverflow    | https://c-j.dev/                 | https://c-j.dev/atom.xml                 |
 | zhao's Moments | https://zhaozuohong.vip/         | https://zhaozuohong.vip/feed.xml         |
 | Zigone         | https://zigone.site              | https://zigone.site/atom.xml             |
+| 忧郁沙茶        | https://crabtux.github.io/       | https://crabtux.github.io/atom.xml       |
 
 ## OPML 文件
 
