@@ -69,5 +69,8 @@
 <outline title="Zigone">
 <outline type='rss' text="Zigone" xmlUrl="https://zigone.site/atom.xml" htmlUrl="https://zigone.site"/>
 </outline>
+<outline title="忧郁沙茶">
+<outline type='rss' text="忧郁沙茶" xmlUrl="https://crabtux.github.io/atom.xml" htmlUrl="https://crabtux.github.io/"/>
+</outline>
 </body>
 </opml>
