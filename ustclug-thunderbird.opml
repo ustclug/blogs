@@ -75,5 +75,8 @@
 <outline title="Hanako">
 <outline type='rss' text="Hanako" xmlUrl="https://hanako.me/rss.xml" htmlUrl="https://hanako.me/"/>
 </outline>
+<outline title="Tianyi Cui">
+<outline type='rss' text="Tianyi Cui" xmlUrl="https://blog.ctyi.me/feed.xml" htmlUrl="https://blog.ctyi.me/"/>
+</outline>
 </body>
 </opml>

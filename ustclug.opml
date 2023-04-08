@@ -27,5 +27,6 @@
 <outline type='rss' text="Zigone" xmlUrl="https://zigone.site/atom.xml" htmlUrl="https://zigone.site"/>
 <outline type='rss' text="忧郁沙茶" xmlUrl="https://crabtux.github.io/atom.xml" htmlUrl="https://crabtux.github.io/"/>
 <outline type='rss' text="Hanako" xmlUrl="https://hanako.me/rss.xml" htmlUrl="https://hanako.me/"/>
+<outline type='rss' text="Tianyi Cui" xmlUrl="https://blog.ctyi.me/feed.xml" htmlUrl="https://blog.ctyi.me/"/>
 </body>
 </opml>
