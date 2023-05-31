@@ -36,6 +36,7 @@ USTCLUG 同学们的博客列表，参考了 TUNA 协会的 [blogroll](https://g
 | 忧郁沙茶        | https://crabtux.github.io/       | https://crabtux.github.io/atom.xml       |
 | Hanako         | https://hanako.me/               | https://hanako.me/rss.xml                |
 | Tianyi Cui     | https://blog.ctyi.me/            | https://blog.ctyi.me/feed.xml            |
+| PRO's Blog     | https://pro-2684.github.io/      |                                          |
 
 ## OPML 文件
 
