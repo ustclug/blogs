@@ -34,7 +34,7 @@
 <outline type='rss' text="酱瓜 / Jonbgua" xmlUrl="https://www.jonbgua.com/atom.xml" htmlUrl="https://jonbgua.com"/>
 </outline>
 <outline title="ksqsf / Cicada">
-<outline type='rss' text="ksqsf / Cicada" xmlUrl="https://ksqsf.moe/atom.xml" htmlUrl="https://ksqsf.moe/blog/"/>
+<outline type='rss' text="ksqsf / Cicada" xmlUrl="https://ksqsf.moe/index.xml" htmlUrl="https://ksqsf.moe/blog/"/>
 </outline>
 <outline title="ustcpetergu">
 <outline type='rss' text="ustcpetergu" xmlUrl="https://regymm.github.io/MyBlog/feed.xml" htmlUrl="https://regymm.github.io/MyBlog/"/>
