@@ -78,5 +78,8 @@
 <outline title="Tianyi Cui">
 <outline type='rss' text="Tianyi Cui" xmlUrl="https://blog.ctyi.me/feed.xml" htmlUrl="https://blog.ctyi.me/"/>
 </outline>
+<outline title="Monsoon">
+<outline type='rss' text="Monsoon" xmlUrl="https://monsoon-cs.moe/atom.xml" htmlUrl="https://monsoon-cs.moe/"/>
+</outline>
 </body>
 </opml>
