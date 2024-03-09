@@ -29,5 +29,6 @@
 <outline type='rss' text="Hanako" xmlUrl="https://hanako.me/rss.xml" htmlUrl="https://hanako.me/"/>
 <outline type='rss' text="Tianyi Cui" xmlUrl="https://blog.ctyi.me/feed.xml" htmlUrl="https://blog.ctyi.me/"/>
 <outline type='rss' text="Monsoon" xmlUrl="https://monsoon-cs.moe/atom.xml" htmlUrl="https://monsoon-cs.moe/"/>
+<outline type='rss' text="llyのblog" xmlUrl="https://blog.liuly.moe/feed.xml" htmlUrl="https://blog.liuly.moe/"/>
 </body>
 </opml>

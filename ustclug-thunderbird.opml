@@ -81,5 +81,8 @@
 <outline title="Monsoon">
 <outline type='rss' text="Monsoon" xmlUrl="https://monsoon-cs.moe/atom.xml" htmlUrl="https://monsoon-cs.moe/"/>
 </outline>
+<outline title="llyのblog">
+<outline type='rss' text="llyのblog" xmlUrl="https://blog.liuly.moe/feed.xml" htmlUrl="https://blog.liuly.moe/"/>
+</outline>
 </body>
 </opml>
