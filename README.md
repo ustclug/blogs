@@ -17,7 +17,6 @@ USTCLUG 同学们的博客列表，参考了 TUNA 协会的 [blogroll](https://g
 | nicecream      | https://voile.tech               |                                          |
 | Elisa's Blog   | https://etsai.site/              | https://etsai.site/atom.xml              |
 | 负一的平方根    | https://sqrt-1.me/               | https://sqrt-1.me/?feed=rss2             |
-| hustcw         | https://blog.wh98.me/            | https://blog.wh98.me/atom.xml            |
 | volltin        | https://blog.volltin.com         | https://blog.volltin.com/feed/           |
 | elliot(ertuil) | https://www.elliot98.top         | https://www.elliot98.top/index.xml       |
 | 酱瓜 / Jonbgua | https://jonbgua.com              | https://www.jonbgua.com/atom.xml         |
