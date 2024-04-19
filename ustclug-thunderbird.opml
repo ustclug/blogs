@@ -46,7 +46,7 @@
 <outline type='rss' text="Bowen's Blog" xmlUrl="https://foreverfancy.github.io/atom.xml" htmlUrl="https://foreverfancy.github.io/"/>
 </outline>
 <outline title="myl7">
-<outline type='rss' text="myl7" xmlUrl="https://myl.moe/atom.xml" htmlUrl="https://myl.moe"/>
+<outline type='rss' text="myl7" xmlUrl="https://myl.moe/rss.xml" htmlUrl="https://myl.moe"/>
 </outline>
 <outline title="totoro">
 <outline type='rss' text="totoro" xmlUrl="https://yyw.moe/atom.xml" htmlUrl="https://yyw.moe"/>

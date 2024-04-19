@@ -17,7 +17,7 @@
 <outline type='rss' text="lys" xmlUrl="https://liyishuai.wordpress.com/feed/" htmlUrl="https://liyishuai.wordpress.com"/>
 <outline type='rss' text="libreliu" xmlUrl="https://blog.libreliu.info/atom.xml" htmlUrl="https://blog.libreliu.info"/>
 <outline type='rss' text="Bowen's Blog" xmlUrl="https://foreverfancy.github.io/atom.xml" htmlUrl="https://foreverfancy.github.io/"/>
-<outline type='rss' text="myl7" xmlUrl="https://myl.moe/atom.xml" htmlUrl="https://myl.moe"/>
+<outline type='rss' text="myl7" xmlUrl="https://myl.moe/rss.xml" htmlUrl="https://myl.moe"/>
 <outline type='rss' text="totoro" xmlUrl="https://yyw.moe/atom.xml" htmlUrl="https://yyw.moe"/>
 <outline type='rss' text="boj" xmlUrl="https://ring0.me/atom.xml" htmlUrl="https://ring0.me/"/>
 <outline type='rss' text="bcli" xmlUrl="https://bc-li.github.io/feed.xml" htmlUrl="https://bc-li.github.io/"/>
