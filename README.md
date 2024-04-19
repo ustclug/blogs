@@ -25,7 +25,7 @@ USTCLUG 同学们的博客列表，参考了 TUNA 协会的 [blogroll](https://g
 | lys            | https://liyishuai.wordpress.com  | https://liyishuai.wordpress.com/feed/    |
 | libreliu       | https://blog.libreliu.info       | https://blog.libreliu.info/atom.xml      |
 | Bowen's Blog   | https://foreverfancy.github.io/  | https://foreverfancy.github.io/atom.xml  |
-| myl7           | https://myl.moe                  | https://myl.moe/atom.xml                 |
+| myl7           | https://myl.moe                  | https://myl.moe/rss.xml                  |
 | totoro         | https://yyw.moe                  | https://yyw.moe/atom.xml                 |
 | boj            | https://ring0.me/                | https://ring0.me/atom.xml                |
 | bcli           | https://bc-li.github.io/         | https://bc-li.github.io/feed.xml         |
