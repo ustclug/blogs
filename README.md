@@ -39,6 +39,7 @@ USTCLUG 同学们的博客列表，参考了 TUNA 协会的 [blogroll](https://g
 | Monsoon        | https://monsoon-cs.moe/          | https://monsoon-cs.moe/atom.xml          |
 | llyのblog      | https://blog.liuly.moe/          | https://blog.liuly.moe/feed.xml          |
 | cuihao (cvhc)  | https://blog.cvhc.cc/            |                                          |
+| jenny42        | https://jenny42.com/             | https://jenny42.com/atom.xml             |
 
 ## OPML 文件
 
