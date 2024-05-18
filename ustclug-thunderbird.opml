@@ -81,5 +81,8 @@
 <outline title="llyのblog">
 <outline type='rss' text="llyのblog" xmlUrl="https://blog.liuly.moe/feed.xml" htmlUrl="https://blog.liuly.moe/"/>
 </outline>
+<outline title="jenny42">
+<outline type='rss' text="jenny42" xmlUrl="https://jenny42.com/atom.xml" htmlUrl="https://jenny42.com/"/>
+</outline>
 </body>
 </opml>
