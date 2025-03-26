@@ -84,5 +84,8 @@
 <outline title="jenny42">
 <outline type='rss' text="jenny42" xmlUrl="https://jenny42.com/atom.xml" htmlUrl="https://jenny42.com/"/>
 </outline>
+<outline title="GWDx">
+<outline type='rss' text="GWDx" xmlUrl="https://gwdx.github.io/index.xml" htmlUrl="https://gwdx.github.io/"/>
+</outline>
 </body>
 </opml>
