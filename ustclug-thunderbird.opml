@@ -51,9 +51,6 @@
 <outline title="boj">
 <outline type='rss' text="boj" xmlUrl="https://ring0.me/atom.xml" htmlUrl="https://ring0.me/"/>
 </outline>
-<outline title="bcli">
-<outline type='rss' text="bcli" xmlUrl="https://bc-li.github.io/feed.xml" htmlUrl="https://bc-li.github.io/"/>
-</outline>
 <outline title="Catoverflow">
 <outline type='rss' text="Catoverflow" xmlUrl="https://c-j.dev/atom.xml" htmlUrl="https://c-j.dev/"/>
 </outline>
