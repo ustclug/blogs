@@ -49,7 +49,7 @@
 <outline type='rss' text="totoro" xmlUrl="https://yyw.moe/atom.xml" htmlUrl="https://yyw.moe"/>
 </outline>
 <outline title="boj">
-<outline type='rss' text="boj" xmlUrl="https://ring0.me/atom.xml" htmlUrl="https://ring0.me/"/>
+<outline type='rss' text="boj" xmlUrl="https://01.me/atom.xml" htmlUrl="https://01.me/"/>
 </outline>
 <outline title="Catoverflow">
 <outline type='rss' text="Catoverflow" xmlUrl="https://c-j.dev/atom.xml" htmlUrl="https://c-j.dev/"/>
