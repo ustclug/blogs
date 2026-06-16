@@ -29,5 +29,6 @@
 <outline type='rss' text="llyのblog" xmlUrl="https://blog.liuly.moe/feed.xml" htmlUrl="https://blog.liuly.moe/"/>
 <outline type='rss' text="jenny42" xmlUrl="https://jenny42.com/atom.xml" htmlUrl="https://jenny42.com/"/>
 <outline type='rss' text="GWDx" xmlUrl="https://gwdx.github.io/index.xml" htmlUrl="https://gwdx.github.io/"/>
+<outline type='rss' text="Koutian Wu" xmlUrl="https://ktwu01.github.io/feed.xml" htmlUrl="https://ktwu01.github.io"/>
 </body>
 </opml>

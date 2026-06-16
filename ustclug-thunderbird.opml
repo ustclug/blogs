@@ -81,5 +81,8 @@
 <outline title="GWDx">
 <outline type='rss' text="GWDx" xmlUrl="https://gwdx.github.io/index.xml" htmlUrl="https://gwdx.github.io/"/>
 </outline>
+<outline title="Koutian Wu">
+<outline type='rss' text="Koutian Wu" xmlUrl="https://ktwu01.github.io/feed.xml" htmlUrl="https://ktwu01.github.io"/>
+</outline>
 </body>
 </opml>
