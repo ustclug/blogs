@@ -39,6 +39,7 @@ USTCLUG 同学们的博客列表，参考了 TUNA 协会的 [blogroll](https://g
 | cuihao (cvhc)  | https://blog.cvhc.cc/            |                                          |
 | jenny42        | https://jenny42.com/             | https://jenny42.com/atom.xml             |
 | GWDx           | https://gwdx.github.io/          | https://gwdx.github.io/index.xml         |
+| Koutian Wu     | https://koutian.is-a.dev/        | https://koutian.is-a.dev/feed.xml        |
 
 ## OPML 文件
 
