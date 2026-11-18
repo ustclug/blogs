@@ -84,5 +84,8 @@
 <outline title="Koutian Wu">
 <outline type='rss' text="Koutian Wu" xmlUrl="https://ktwu01.github.io/feed.xml" htmlUrl="https://ktwu01.github.io"/>
 </outline>
+<outline title="ElainaのBlog">
+<outline type='rss' text="ElainaのBlog" xmlUrl="https://blog.elainayao.com/rss.xml" htmlUrl="https://blog.elainayao.com"/>
+</outline>
 </body>
 </opml>
